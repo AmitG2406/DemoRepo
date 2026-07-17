@@ -1,3 +1,4 @@
 # DemoRepo
 This is a demo Repository
-just a beginner ... 
+just a beginner .
+      -yours Amit g 
